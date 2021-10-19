@@ -299,5 +299,3 @@ Made with 💖 by [ChaoticWeg][weg] & [fieu][fieu] || Documentation and design b
 [weg]: https://chaoticweg.cc
 [fieu]: https://github.com/fieu
 [matt]: https://github.com/MatthewDietrich
-
-teste
